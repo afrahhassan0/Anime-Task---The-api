@@ -5,7 +5,7 @@ const sql = require('mysql');
 const connection = sql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Impal@67',
+    password: '------',
     database: 'anime-db'
 });
 
